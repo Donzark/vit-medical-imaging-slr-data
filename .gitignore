@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temporary files
+~$*.xlsx
+~$*.docx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local logs
+*.log
