@@ -40,6 +40,3 @@ The Excel workbook includes the following tabs:
 
 See [`docs/data_dictionary.md`](docs/data_dictionary.md) for details.
 
-## License
-
-This repository is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0). This allows reuse with appropriate attribution. Change the license before release if your journal, institution, or co-authors require a different license.
